@@ -33,7 +33,7 @@ Whether I'm managing DNS security or diving into creative arts like painting and
 
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
   
-  <br />
+
 
   <!-- Tools & Security Focus -->
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -50,7 +50,7 @@ Whether I'm managing DNS security or diving into creative arts like painting and
   <img src="https://img.shields.io/badge/Sumo%20Logic-3063E3?style=for-the-badge&logo=sumo-logic&logoColor=white" alt="Sumo Logic" />
   <img src="https://img.shields.io/badge/Mimecast-000000?style=for-the-badge&logo=mimecast&logoColor=white" alt="Mimecast" />
   
-  <br />
+ 
 
   <!-- Frameworks & Networking -->
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -100,7 +100,7 @@ Whether I'm managing DNS security or diving into creative arts like painting and
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <table border="0">
+  <table border="50">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
   </table>
 </div>
