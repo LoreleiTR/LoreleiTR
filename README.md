@@ -2,6 +2,8 @@
 
 # 🧚Lorelei T. Robles 
 
+# About Me 
+
 <p align="left">
   <kbd><b>Digital Craftsman (Virtual Assistant / Tech Enthusiast / Creative)</b></kbd>
 </p>
