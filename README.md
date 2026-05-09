@@ -21,6 +21,7 @@
   </a>
 </div>
 
+---
 <p align="left">
   <kbd><b>Pocket Alchemist (Computer Engineer / Developer / Virtual Assistant / Tech Enthusiast / Creative)</b></kbd>
 </p>
