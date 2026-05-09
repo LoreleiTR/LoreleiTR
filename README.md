@@ -99,7 +99,8 @@ I am a detail-oriented **Computer Engineer**  and aspiring **Developer** dedicat
 ---
 ## 📊 GitHub Stats:
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=rose_pine&hide_border=true&stroke=F06292&ring=F06292&fire=F06292&currStreakLabel=F06292" alt="GitHub Streak" height="180" />
+</div>
   
 </div>
 
