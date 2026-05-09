@@ -1,10 +1,14 @@
+<div align="center">
+  <h1 align="center"><font color="#F06292">Lorelei T. Robles</font></h1>
 
-<p align="center">
- <h1>Lorelei T. Robles</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Indie+Digital+Alchemist;Junior+Software+Developer;AI+Developer" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Indie+Digital+Alchemist;Junior+Software+Developer;AI+Developer" alt="Typing SVG" />
 
-
+  <p align="center">
+    <a href="https://linkedin.com/in/lorelei-robles-7587b0331" target="blank"><img src="https://img.shields.io/badge/LinkedIn-F06292?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:robleslorelei@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-F06292?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://instagram.com/YourInsta" target="blank"><img src="https://img.shields.io/badge/Instagram-F06292?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
+</div>
 
 # 🧚Lorelei T. Robles 
 
