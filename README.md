@@ -101,13 +101,6 @@ Whether I'm managing DNS security or diving into creative arts like painting and
 
 <div align="center">
   <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=LoreleiTR&show_icons=true&theme=tokyonight&count_private=true" alt="Lorelei's GitHub Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-      </td>
-    </tr>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
   </table>
 </div>
