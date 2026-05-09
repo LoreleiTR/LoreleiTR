@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets\name.png" alt="Lorelei Robles Banner" width="100%" />
+  <img src="assets\Croppedname.png" alt="Lorelei Robles Banner" width="100%" />
 
   <br />
 
