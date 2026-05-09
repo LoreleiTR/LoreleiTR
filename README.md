@@ -97,7 +97,7 @@ I am a detail-oriented **Computer Engineer**  and aspiring **Developer** dedicat
 ## 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoreleiTR&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="180" />
+  [![Lorelei's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoreleiTR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/LoreleiTR)
   
 </div>
 
