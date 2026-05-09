@@ -53,6 +53,49 @@ Whether I'm managing DNS security or diving into creative arts like painting and
 </p>
 
 
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LoreleiTR&show_icons=true&theme=tokyonight&count_private=true" alt="Lorelei's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🛡️ Cybersecurity & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Netskope-00AEEF?style=for-the-badge&logo=netskope&logoColor=white" alt="Netskope" />
+  <img src="https://img.shields.io/badge/Tines-black?style=for-the-badge&logo=tines&logoColor=white" alt="Tines" />
+  <img src="https://img.shields.io/badge/Sumo%20Logic-3063E3?style=for-the-badge&logo=sumo-logic&logoColor=white" alt="Sumo Logic" />
+  <img src="https://img.shields.io/badge/Mimecast-000000?style=for-the-badge&logo=mimecast&logoColor=white" alt="Mimecast" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+</p>
+
+### 🚀 Full Stack & Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+### 🎨 Tools & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+
+
+
 ### 📊 My Stats
 <p align="left">
   <a href="#">
