@@ -19,7 +19,7 @@
   <a href="https://x.com/YourXAccount" target="_blank">
     <img src="https://img.shields.io/badge/X-F06292?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="hhttps://loreleitr.itch.io/" target="_blank">
+  <a href="https://loreleitr.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-F06292?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
 </div>
