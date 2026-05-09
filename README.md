@@ -79,5 +79,5 @@ Whether I'm managing DNS security or diving into creative arts like painting and
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
