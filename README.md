@@ -2,7 +2,6 @@
 
 # 🧚Lorelei T. Robles 
 
-
 <p align="left">
   <kbd><b>Digital Craftsman (Virtual Assistant / Tech Enthusiast / Creative)</b></kbd>
 </p>
@@ -12,9 +11,7 @@ I'm an aspiring Virtual Assistant and content creator building my version of the
 Whether I'm managing DNS security or diving into creative arts like painting and cosplay, I approach every project with the same level of planning and artistic touch. I document my journey across my various niches, from technical SC-900 standards to daily vlogs.
 
 ---
-
 ## 💻 Tech Stack:
-
 <p align="left">
   <!-- Languages & Core -->
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -30,9 +27,7 @@ Whether I'm managing DNS security or diving into creative arts like painting and
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
-  
 
 
   <!-- Tools & Security Focus -->
@@ -49,8 +44,6 @@ Whether I'm managing DNS security or diving into creative arts like painting and
   <img src="https://img.shields.io/badge/Tines-black?style=for-the-badge&logo=tines&logoColor=white" alt="Tines" />
   <img src="https://img.shields.io/badge/Sumo%20Logic-3063E3?style=for-the-badge&logo=sumo-logic&logoColor=white" alt="Sumo Logic" />
   <img src="https://img.shields.io/badge/Mimecast-000000?style=for-the-badge&logo=mimecast&logoColor=white" alt="Mimecast" />
-  
- 
 
   <!-- Frameworks & Networking -->
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -69,7 +62,6 @@ Whether I'm managing DNS security or diving into creative arts like painting and
 
 
 ---
-
 ## 🎥 Youtube Channel
 <p align="left">
   <a href="#">
@@ -83,9 +75,8 @@ Whether I'm managing DNS security or diving into creative arts like painting and
   </a>
 </p>
 
-
+---
 ## 🌐 Socials:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/lorelei-robles-7587b0331/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -104,8 +95,8 @@ Whether I'm managing DNS security or diving into creative arts like painting and
     </a>
 </p>
 
+---
 ## 📊 GitHub Stats:
-
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
