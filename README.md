@@ -2,7 +2,6 @@
 
 # 🧚Lorelei T. Robles 
 
-# About Me 
 
 <p align="left">
   <kbd><b>Digital Craftsman (Virtual Assistant / Tech Enthusiast / Creative)</b></kbd>
@@ -13,31 +12,6 @@ I'm an aspiring Virtual Assistant and content creator building my version of the
 Whether I'm managing DNS security or diving into creative arts like painting and cosplay, I approach every project with the same level of planning and artistic touch. I document my journey across my various niches, from technical SC-900 standards to daily vlogs.
 
 ---
-
-### 📊 My Stats
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/SUBSCRIBE-396K-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribers">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/VIEWS-23M-yellow?style=for-the-badge&logo=youtube&logoColor=white" alt="Views">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/FOLLOW-8.2K-blue?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
-  </a>
-</p>
-
-
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
 
 ## 💻 Tech Stack:
 
@@ -76,6 +50,32 @@ Whether I'm managing DNS security or diving into creative arts like painting and
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+
+### 📊 My Stats
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/SUBSCRIBE-396K-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribers">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/VIEWS-23M-yellow?style=for-the-badge&logo=youtube&logoColor=white" alt="Views">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/FOLLOW-8.2K-blue?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
+  </a>
+</p>
+
+
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 ## 📊 GitHub Stats:
