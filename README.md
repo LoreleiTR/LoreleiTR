@@ -6,9 +6,7 @@
   <kbd><b>Digital Craftsman (Virtual Assistant / Tech Enthusiast / Creative)</b></kbd>
 </p>
 
-I'm an aspiring Virtual Assistant and content creator building my version of the digital world one step at a time. All my professional work at **Koi Labs** is built from the ground up, from technical fundamentals in cybersecurity to solving real-life problems for clients. 
-
-Whether I'm managing DNS security or diving into creative arts like painting and cosplay, I approach every project with the same level of planning and artistic touch. I document my journey across my various niches, from technical SC-900 standards to daily vlogs.
+I am a detail-oriented **Computer Engineer**  and aspiring **Developer** dedicated to building intelligent, efficient, and user-centric digital solutions. My background is rooted in Full Stack Development and technical problem-solving, with experience ranging from developing Smart Campus Navigation systems to building customized software solutions for various clients.  I am currently focused on bridging the gap between traditional software engineering and AI/Machine Learning. With a technical stack that includes Python, TypeScript, and Next.js, I enjoy exploring how automation and intelligent algorithms can enhance user experience. Whether I’m designing a complex backend architecture or experimenting with creative projects like visual novels and UI design, I strive to create high-impact code that solves real-world problems
 
 ---
 ## 💻 Tech Stack:
