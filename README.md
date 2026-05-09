@@ -99,8 +99,6 @@ Whether I'm managing DNS security or diving into creative arts like painting and
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <table border="50">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoreleiTR&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-  </table>
 </div>
