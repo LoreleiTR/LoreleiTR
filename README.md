@@ -70,7 +70,7 @@ Whether I'm managing DNS security or diving into creative arts like painting and
 
 ---
 
-## 📊 Youtube Channel
+## 🎥 Youtube Channel
 <p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/SUBSCRIBE-396K-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribers">
