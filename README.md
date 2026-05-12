@@ -26,7 +26,7 @@
 
 ---
 <p align="left">
-  <kbd><b>Pocket Alchemist (Computer Engineer / Developer / Virtual Assistant / Tech Enthusiast / Creative)</b></kbd>
+  <kbd><b>Tech XpLore'r (Computer Engineer / Developer / Virtual Assistant / Tech Enthusiast / Creative)</b></kbd>
 </p>
 
 I am a detail-oriented **Computer Engineer**  and aspiring **Developer** dedicated to building intelligent, efficient, and user-centric digital solutions. My background is rooted in Full Stack Development and technical problem-solving, with experience ranging from developing Smart Campus Navigation systems to building customized software solutions for various clients.  I am currently focused on bridging the gap between traditional software engineering and AI/Machine Learning. With a technical stack that includes Python, TypeScript, and Next.js, I enjoy exploring how automation and intelligent algorithms can enhance user experience. With a background as a cybersecurity trainee, I bring a security-first mindset to software development, ensuring that the applications and AI solutions I build are robust and resilient from the ground up. Whether I’m designing a backend or experimenting with creative projects like visual novels and UI design, I strive to create high-impact code that solves real-world problems.
